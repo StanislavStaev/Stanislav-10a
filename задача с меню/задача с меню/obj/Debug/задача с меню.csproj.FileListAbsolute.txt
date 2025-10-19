@@ -1,0 +1,7 @@
+C:\Users\Станислав\source\repos\задача с меню\задача с меню\bin\Debug\задача с меню.exe.config
+C:\Users\Станислав\source\repos\задача с меню\задача с меню\bin\Debug\задача с меню.exe
+C:\Users\Станислав\source\repos\задача с меню\задача с меню\bin\Debug\задача с меню.pdb
+C:\Users\Станислав\source\repos\задача с меню\задача с меню\obj\Debug\задача с меню.csproj.AssemblyReference.cache
+C:\Users\Станислав\source\repos\задача с меню\задача с меню\obj\Debug\задача с меню.csproj.CoreCompileInputs.cache
+C:\Users\Станислав\source\repos\задача с меню\задача с меню\obj\Debug\задача с меню.exe
+C:\Users\Станислав\source\repos\задача с меню\задача с меню\obj\Debug\задача с меню.pdb
