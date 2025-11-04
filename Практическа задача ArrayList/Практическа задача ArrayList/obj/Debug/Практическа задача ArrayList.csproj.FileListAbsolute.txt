@@ -1,0 +1,7 @@
+D:\Users\Станислав\Desktop\Практическа задача ArrayList\Практическа задача ArrayList\bin\Debug\Практическа задача ArrayList.exe.config
+D:\Users\Станислав\Desktop\Практическа задача ArrayList\Практическа задача ArrayList\bin\Debug\Практическа задача ArrayList.exe
+D:\Users\Станислав\Desktop\Практическа задача ArrayList\Практическа задача ArrayList\bin\Debug\Практическа задача ArrayList.pdb
+D:\Users\Станислав\Desktop\Практическа задача ArrayList\Практическа задача ArrayList\obj\Debug\Практическа задача ArrayList.csproj.AssemblyReference.cache
+D:\Users\Станислав\Desktop\Практическа задача ArrayList\Практическа задача ArrayList\obj\Debug\Практическа задача ArrayList.csproj.CoreCompileInputs.cache
+D:\Users\Станислав\Desktop\Практическа задача ArrayList\Практическа задача ArrayList\obj\Debug\Практическа задача ArrayList.exe
+D:\Users\Станислав\Desktop\Практическа задача ArrayList\Практическа задача ArrayList\obj\Debug\Практическа задача ArrayList.pdb
