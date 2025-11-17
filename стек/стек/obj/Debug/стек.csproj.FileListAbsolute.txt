@@ -1,0 +1,7 @@
+D:\Users\Станислав\Desktop\стек\стек\bin\Debug\стек.exe.config
+D:\Users\Станислав\Desktop\стек\стек\bin\Debug\стек.exe
+D:\Users\Станислав\Desktop\стек\стек\bin\Debug\стек.pdb
+D:\Users\Станислав\Desktop\стек\стек\obj\Debug\стек.csproj.AssemblyReference.cache
+D:\Users\Станислав\Desktop\стек\стек\obj\Debug\стек.csproj.CoreCompileInputs.cache
+D:\Users\Станислав\Desktop\стек\стек\obj\Debug\стек.exe
+D:\Users\Станислав\Desktop\стек\стек\obj\Debug\стек.pdb
