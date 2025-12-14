@@ -1,0 +1,7 @@
+D:\Users\Станислав\Desktop\Stack & Queue\зад 4\bin\Debug\зад 4.exe.config
+D:\Users\Станислав\Desktop\Stack & Queue\зад 4\bin\Debug\зад 4.exe
+D:\Users\Станислав\Desktop\Stack & Queue\зад 4\bin\Debug\зад 4.pdb
+D:\Users\Станислав\Desktop\Stack & Queue\зад 4\obj\Debug\зад 4.csproj.AssemblyReference.cache
+D:\Users\Станислав\Desktop\Stack & Queue\зад 4\obj\Debug\зад 4.csproj.CoreCompileInputs.cache
+D:\Users\Станислав\Desktop\Stack & Queue\зад 4\obj\Debug\зад 4.exe
+D:\Users\Станислав\Desktop\Stack & Queue\зад 4\obj\Debug\зад 4.pdb

@@ -1,0 +1,7 @@
+D:\Users\Станислав\Desktop\Stack & Queue\zad 2\bin\Debug\zad 2.exe.config
+D:\Users\Станислав\Desktop\Stack & Queue\zad 2\bin\Debug\zad 2.exe
+D:\Users\Станислав\Desktop\Stack & Queue\zad 2\bin\Debug\zad 2.pdb
+D:\Users\Станислав\Desktop\Stack & Queue\zad 2\obj\Debug\zad 2.csproj.AssemblyReference.cache
+D:\Users\Станислав\Desktop\Stack & Queue\zad 2\obj\Debug\zad 2.csproj.CoreCompileInputs.cache
+D:\Users\Станислав\Desktop\Stack & Queue\zad 2\obj\Debug\zad 2.exe
+D:\Users\Станислав\Desktop\Stack & Queue\zad 2\obj\Debug\zad 2.pdb

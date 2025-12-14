@@ -1,0 +1,7 @@
+D:\Users\Станислав\Desktop\Stack & Queue\Stack & Queue\bin\Debug\Stack & Queue.exe.config
+D:\Users\Станислав\Desktop\Stack & Queue\Stack & Queue\bin\Debug\Stack & Queue.exe
+D:\Users\Станислав\Desktop\Stack & Queue\Stack & Queue\bin\Debug\Stack & Queue.pdb
+D:\Users\Станислав\Desktop\Stack & Queue\Stack & Queue\obj\Debug\Stack & Queue.csproj.AssemblyReference.cache
+D:\Users\Станислав\Desktop\Stack & Queue\Stack & Queue\obj\Debug\Stack & Queue.csproj.CoreCompileInputs.cache
+D:\Users\Станислав\Desktop\Stack & Queue\Stack & Queue\obj\Debug\Stack & Queue.exe
+D:\Users\Станислав\Desktop\Stack & Queue\Stack & Queue\obj\Debug\Stack & Queue.pdb
