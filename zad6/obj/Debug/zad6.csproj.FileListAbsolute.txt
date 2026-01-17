@@ -1,0 +1,7 @@
+C:\Users\Станислав\source\repos\статични и динамични методи за манипулация др\zad6\obj\Debug\zad6.csproj.AssemblyReference.cache
+C:\Users\Станислав\source\repos\статични и динамични методи за манипулация др\zad6\obj\Debug\zad6.csproj.CoreCompileInputs.cache
+C:\Users\Станислав\source\repos\статични и динамични методи за манипулация др\zad6\bin\Debug\zad6.exe.config
+C:\Users\Станислав\source\repos\статични и динамични методи за манипулация др\zad6\bin\Debug\zad6.exe
+C:\Users\Станислав\source\repos\статични и динамични методи за манипулация др\zad6\bin\Debug\zad6.pdb
+C:\Users\Станислав\source\repos\статични и динамични методи за манипулация др\zad6\obj\Debug\zad6.exe
+C:\Users\Станислав\source\repos\статични и динамични методи за манипулация др\zad6\obj\Debug\zad6.pdb
