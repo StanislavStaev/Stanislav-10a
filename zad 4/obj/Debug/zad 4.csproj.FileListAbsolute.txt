@@ -1,0 +1,7 @@
+C:\Users\Станислав\source\repos\статични и динамични методи за манипулация др\zad 4\bin\Debug\zad 4.exe.config
+C:\Users\Станислав\source\repos\статични и динамични методи за манипулация др\zad 4\bin\Debug\zad 4.exe
+C:\Users\Станислав\source\repos\статични и динамични методи за манипулация др\zad 4\bin\Debug\zad 4.pdb
+C:\Users\Станислав\source\repos\статични и динамични методи за манипулация др\zad 4\obj\Debug\zad 4.csproj.AssemblyReference.cache
+C:\Users\Станислав\source\repos\статични и динамични методи за манипулация др\zad 4\obj\Debug\zad 4.csproj.CoreCompileInputs.cache
+C:\Users\Станислав\source\repos\статични и динамични методи за манипулация др\zad 4\obj\Debug\zad 4.exe
+C:\Users\Станислав\source\repos\статични и динамични методи за манипулация др\zad 4\obj\Debug\zad 4.pdb
